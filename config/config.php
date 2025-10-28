@@ -6,7 +6,7 @@ define('DB_PASS', ''); // Default XAMPP password is empty
 define('DB_NAME', 'dreamora_shop');
 
 // Site configuration
-define('SITE_NAME', 'Dreamora Digital Shop');
+define('SITE_NAME', 'Dreamora Shop');
 define('SITE_URL', 'http://localhost/Dreamora');
 define('ADMIN_EMAIL', 'admin@dreamora.com');
 
